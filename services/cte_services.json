@@ -1,0 +1,132 @@
+{
+  "an": {
+    "prod": {
+      "distribution": "https://www1.cte.fazenda.gov.br/CTeDistribuicaoDFe/CTeDistribuicaoDFe.asmx?wsdl"
+    },
+    "hom": {
+      "distribution": "https://hom1.cte.fazenda.gov.br/CTeDistribuicaoDFe/CTeDistribuicaoDFe.asmx?wsdl"
+    }
+  },
+  "mg": {
+    "prod": {
+      "query_situation": "https://cte.fazenda.mg.gov.br/cte/services/CteConsulta?wsdl",
+      "status_service": "https://cte.fazenda.mg.gov.br/cte/services/CteStatusServico?wsdl",
+      "event": "https://cte.fazenda.mg.gov.br/cte/services/RecepcaoEvento?wsdl",
+      "reception_os": "https://cte.fazenda.mg.gov.br/cte/services/CteRecepcaoOS?wsdl",
+      "reception": "https://cte.fazenda.mg.gov.br/cte/services/CteRetRecepcao?wsdl",
+      "return_reception": "https://cte.fazenda.mg.gov.br/cte/services/CteRecepcao?wsdl"
+    },
+    "hom": {
+      "query_situation": "https://hcte.fazenda.mg.gov.br/cte/services/CteConsulta?wsdl",
+      "status_service": "https://hcte.fazenda.mg.gov.br/cte/services/CteStatusServico?wsdl",
+      "event": "https://hcte.fazenda.mg.gov.br/cte/services/RecepcaoEvento?wsdl",
+      "reception_os": "https://hcte.fazenda.mg.gov.br/cte/services/CteRecepcaoOS?wsdl",
+      "reception": "https://hcte.fazenda.mg.gov.br/cte/services/CteRetRecepcao?wsdl",
+      "return_reception": "https://hcte.fazenda.mg.gov.br/cte/services/CteRecepcao?wsdl"
+    }
+  },
+  "ms": {
+    "prod": {
+      "query_situation": "https://producao.cte.ms.gov.br/ws/CteConsulta?wsdl",
+      "status_service": "https://producao.cte.ms.gov.br/ws/CteStatusServico?wsdl",
+      "event": "https://producao.cte.ms.gov.br/ws/CteRecepcaoEvento?wsdl",
+      "reception_os": "https://producao.cte.ms.gov.br/ws/CteRecepcaoOS?wsdl",
+      "reception": "https://producao.cte.ms.gov.br/ws/CteRecepcao?wsdl",
+      "return_reception": "https://producao.cte.ms.gov.br/ws/CteRetRecepcao?wsdl",
+      "reception_sync": "https://producao.cte.ms.gov.br/ws/CteRecepcaoSinc?wsdl"
+    },
+    "hom": {
+      "query_situation": "https://homologacao.cte.ms.gov.br/ws/CteConsulta?wsdl",
+      "status_service": "https://homologacao.cte.ms.gov.br/ws/CteStatusServico?wsdl",
+      "event": "https://homologacao.cte.ms.gov.br/ws/CteRecepcaoEvento?wsdl",
+      "reception_os": "https://homologacao.cte.ms.gov.br/ws/CteRecepcaoOS?wsdl",
+      "reception": "https://homologacao.cte.ms.gov.br/ws/CteRecepcao?wsdl",
+      "return_reception": "https://homologacao.cte.ms.gov.br/ws/CteRetRecepcao?wsdl",
+      "reception_sync": "https://homologacao.cte.ms.gov.br/ws/CteRecepcaoSinc?wsdl"
+    }
+  },
+  "mt": {
+    "prod": {
+      "query_situation": "https://cte.sefaz.mt.gov.br/ctews/services/CteConsulta?wsdl",
+      "status_service": "https://cte.sefaz.mt.gov.br/ctews/services/CteStatusServico?wsdl",
+      "event": "https://cte.sefaz.mt.gov.br/ctews2/services/CteRecepcaoEvento?wsdl",
+      "reception_os": "https://cte.sefaz.mt.gov.br/ctews/services/CteRecepcaoOS?wsdl",
+      "reception": "https://cte.sefaz.mt.gov.br/ctews/services/CteRecepcao?wsdl",
+      "return_reception": "https://cte.sefaz.mt.gov.br/ctews/services/CteRetRecepcao?wsdl"
+    },
+    "hom": {
+      "query_situation": "https://homologacao.sefaz.mt.gov.br/ctews/services/CteConsulta?wsdl",
+      "status_service": "https://homologacao.sefaz.mt.gov.br/ctews/services/CteStatusServico?wsdl",
+      "event": "https://homologacao.sefaz.mt.gov.br/ctews2/services/CteRecepcaoEvento?wsdl",
+      "reception_os": "https://homologacao.sefaz.mt.gov.br/ctews/services/CteRecepcaoOS?wsdl",
+      "reception": "https://homologacao.sefaz.mt.gov.br/ctews/services/CteRecepcao?wsdl",
+      "return_reception": "https://homologacao.sefaz.mt.gov.br/ctews/services/CteRetRecepcao?wsdl"
+    }
+  },
+  "pr": {
+    "prod": {
+      "query_situation": "https://cte.fazenda.pr.gov.br/cte/CteConsulta?wsdl",
+      "status_service": "https://cte.fazenda.pr.gov.br/cte/CteStatusServico?wsdl",
+      "event": "https://cte.fazenda.pr.gov.br/cte/CteRecepcaoEvento?wsdl",
+      "reception_os": "https://cte.fazenda.pr.gov.br/cte/CteRecepcaoOS?wsdl",
+      "reception": "https://cte.fazenda.pr.gov.br/cte/CteRecepcao?wsdl",
+      "return_reception": "https://cte.fazenda.pr.gov.br/cte/CteRetRecepcao?wsdl",
+      "reception_gtve": "https://cte.fazenda.pr.gov.br/cte/CteRecepcaoGTVe?wsdl",
+      "reception_sync": "https://cte.fazenda.pr.gov.br/cte/CteRecepcaoSinc?wsdl"
+    },
+    "hom": {
+      "query_situation": "https://homologacao.cte.fazenda.pr.gov.br/cte/CteConsulta?wsdl",
+      "status_service": "https://homologacao.cte.fazenda.pr.gov.br/cte/CteStatusServico?wsdl",
+      "event": "https://homologacao.cte.fazenda.pr.gov.br/cte/CteRecepcaoEvento?wsdl",
+      "reception_os": "https://homologacao.cte.fazenda.pr.gov.br/cte/CteRecepcaoOS?wsdl",
+      "reception": "https://homologacao.cte.fazenda.pr.gov.br/cte/CteRecepcao?wsdl",
+      "return_reception": "https://homologacao.cte.fazenda.pr.gov.br/cte/CteRetRecepcao?wsdl",
+      "reception_gtve": "https://homologacao.cte.fazenda.pr.gov.br/cte/CteRecepcaoGTVe?wsdl",
+      "reception_sync": "https://homologacao.cte.fazenda.pr.gov.br/cte/CteRecepcaoSinc?wsdl"
+    }
+  },
+  "svrs": {
+    "prod": {
+      "query_situation": "https://cte.svrs.rs.gov.br/ws/cteconsulta/CteConsulta.asmx?wsdl",
+      "status_service": "https://cte.svrs.rs.gov.br/ws/ctestatusservico/CteStatusServico.asmx?wsdl",
+      "event": "https://cte.svrs.rs.gov.br/ws/cterecepcaoevento/cterecepcaoevento.asmx?wsdl",
+      "reception_os": "https://cte.svrs.rs.gov.br/ws/cterecepcaoos/cterecepcaoos.asmx?wsdl",
+      "reception": "https://cte.svrs.rs.gov.br/ws/cterecepcao/cteRecepcao.asmx?wsdl",
+      "return_reception": "https://cte.svrs.rs.gov.br/ws/cteretrecepcao/cteRetRecepcao.asmx?wsdl",
+      "reception_gtve": "https://cte.svrs.rs.gov.br/ws/CteRecepcaoGTVe/CteRecepcaoGTVe.asmx?wsdl",
+      "reception_sync": "https://cte.svrs.rs.gov.br/ws/CTeRecepcaoSinc/CTeRecepcaoSinc.asmx?wsdl"
+    },
+    "hom": {
+      "query_situation": "https://cte-homologacao.svrs.rs.gov.br/ws/cteconsulta/CteConsulta.asmx?wsdl",
+      "status_service": "https://cte-homologacao.svrs.rs.gov.br/ws/ctestatusservico/CteStatusServico.asmx?wsdl",
+      "event": "https://cte-homologacao.svrs.rs.gov.br/ws/cterecepcaoevento/cterecepcaoevento.asmx?wsdl",
+      "reception_os": "https://cte-homologacao.svrs.rs.gov.br/ws/cterecepcaoos/cterecepcaoos.asmx?wsdl",
+      "reception": "https://cte-homologacao.svrs.rs.gov.br/ws/cterecepcao/cteRecepcao.asmx?wsdl",
+      "return_reception": "https://cte-homologacao.svrs.rs.gov.br/ws/cteretrecepcao/cteRetRecepcao.asmx?wsdl",
+      "reception_gtve": "https://cte-homologacao.svrs.rs.gov.br/ws/CteRecepcaoGTVe/CteRecepcaoGTVe.asmx?wsdl",
+      "reception_sync": "https://cte-homologacao.svrs.rs.gov.br/ws/CTeRecepcaoSinc/CTeRecepcaoSinc.asmx?wsdl"
+    }
+  },
+  "svsp": {
+    "prod": {
+      "query_situation": "https://nfe.fazenda.sp.gov.br/cteWEB/services/cteConsulta.asmx?wsdl",
+      "status_service": "https://nfe.fazenda.sp.gov.br/cteWEB/services/cteStatusServico.asmx?wsdl",
+      "event": "https://nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcaoEvento.asmx?wsdl",
+      "reception_os": "https://nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcaoOS.asmx?wsdl",
+      "reception": "https://nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcao.asmx?wsdl",
+      "return_reception": "https://nfe.fazenda.sp.gov.br/cteWEB/services/cteRetRecepcao.asmx?wsdl",
+      "reception_gtve": "https://nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcaoGTVe.asmx?wsdl",
+      "reception_sync": "https://nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcaoSinc.asmx?wsdl"
+    },
+    "hom": {
+      "query_situation": "https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteConsulta.asmx?wsdl",
+      "status_service": "https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteStatusServico.asmx?wsdl",
+      "event": "https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcaoEvento.asmx?wsdl",
+      "reception_os": "https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcaoOS.asmx?wsdl",
+      "reception": "https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcao.asmx?wsdl",
+      "return_reception": "https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteRetRecepcao.asmx?wsdl",
+      "reception_gtve": "https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcaoGTVe.asmx?wsdl",
+      "reception_sync": "https://homologacao.nfe.fazenda.sp.gov.br/cteWEB/services/cteRecepcaoSinc.asmx?wsdl"
+    }
+  }
+}
